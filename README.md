@@ -76,7 +76,7 @@ Django_glav/
    ```bash
    python manage.py runserver
    ```
-   - Главная страница: http://localhost:8000/
+ 
 
 
 ## Технологии
